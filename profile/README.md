@@ -6,6 +6,15 @@
 
 🌐 **Сайт проекта: <https://wallettransactions.github.io/>** · [English](https://wallettransactions.github.io/en/)
 
+## Скачать
+
+📥 **Android-приложение:** [последняя версия (APK)](https://github.com/WalletTransactions/android-wallet/releases/latest)
+· ![версия](https://img.shields.io/github/v/release/WalletTransactions/android-wallet?label=release)
+
+Скачайте `wallet-v….apk` из блока **Assets** релиза и установите (понадобится разрешить установку из
+неизвестных источников). Android 8.1 и новее. Все версии и список изменений — на
+[странице релизов](https://github.com/WalletTransactions/android-wallet/releases).
+
 - 📱 **Android-приложение** — полноценный учёт на телефоне, работает офлайн и
   синхронизируется, когда появляется сеть.
 - 🖥️ **Веб-кабинет** — аналитика, остатки по кошелькам, курсы валют, доступ
@@ -44,3 +53,5 @@
 language and bank statements, and runs on your own server at home.
 Android app, web dashboard, Telegram bot, local AI assistant and an MCP server
 for AI assistants. Learn more at **<https://wallettransactions.github.io/en/>**.
+
+📥 **Download the Android app (APK):** <https://github.com/WalletTransactions/android-wallet/releases/latest>
